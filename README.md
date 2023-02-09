@@ -3,10 +3,8 @@
 [![LinkedIn](https://img.shields.io/badge/jrachelr%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jrachelr1/)](https://www.linkedin.com/in/jrachelr1/)
 [![GitHub](https://img.shields.io/badge/jrachelr%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/jrachelr)](https://github.com/jrachelr)
 
-I'm a full-stack software engineer. 
-
-- :round_pushpin: Based in California, USA
-- :smile: Pronouns: she/her
+I'm a full-stack software engineer based in California, USA.
+I enjoy creating fun and innovative products that users love to interact with.
 
 ### Languages & Tools
 ![Python](https://img.shields.io/badge/Python%20-forestgreen.svg?&style=flat-square&logo=python&logoColor=white)
