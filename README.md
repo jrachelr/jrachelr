@@ -5,7 +5,7 @@
 
 ## About Me
 * :woman_singer: I'm a full-stack software engineer based in California, USA.
-* :tada: I enjoy creating fun and innovative products that users love to interact with.
+* :tada: I enjoy creating fun and innovative products users love to interact with.
 * :herb: I'm passionate about learning, nature and making art. 
 
 ### Languages & Tools
