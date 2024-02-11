@@ -6,7 +6,7 @@
 ## About Me
 * :woman_singer: I'm a software engineer in California.
 * :tada: I love building intuitive user interfaces, collaboration and solving problems. 
-* :herb: Front end developer combining creativity with logical reasoning. Open-source contributor, lifetime learner. Former economist & data analyst.
+* :herb: Front end developer combining creativity with logical reasoning. Open-source contributor, lifetime learner. 
 
 ### Languages & Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E)
