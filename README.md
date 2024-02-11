@@ -1,12 +1,9 @@
 ## Hi there! I'm Rachel👋
 
 [![LinkedIn](https://img.shields.io/badge/jrachelr%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jrachelr1/)](https://www.linkedin.com/in/jrachelr1/)
-[![GitHub](https://img.shields.io/badge/jrachelr%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/jrachelr)](https://github.com/jrachelr)
 
 ## About Me
-* :woman_singer: I'm a software engineer in California.
-* :tada: I love building intuitive user interfaces, collaboration and solving problems. 
-* :herb: Front end developer combining creativity with logical reasoning. Open-source contributor, lifetime learner. 
+I'm a software engineer, empath, and problem solver. I'm currently contributing to opensource and learning new things every day.
 
 ### Languages & Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E)
